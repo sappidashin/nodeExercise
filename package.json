@@ -1,0 +1,22 @@
+{
+  "name": "nodeexercise",
+  "version": "1.0.0",
+  "description": "practice to use node",
+  "main": "index.js",
+  "scripts": {
+    "test": "test1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sappidashin/nodeExercise.git"
+  },
+  "author": "sappidashin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sappidashin/nodeExercise/issues"
+  },
+  "homepage": "https://github.com/sappidashin/nodeExercise#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
